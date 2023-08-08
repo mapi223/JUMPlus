@@ -1,0 +1,15 @@
+Day 1 (For me, think it is day 2 for the course)
+
+Intro to Language models
+a Language model learns large amount of text data to create human-like speech. Does this through patterns and structure of human language
+creates sentences via likelihood of a word given surrounding context
+
+Types of language models - N-Gram, Feedforward, RNN, Transformer
+N-Gram similar to auto-type on Iphone. Does not revisit or re-evaluate previous evaluations
+Feedforward Model do not remember previous steps, but it does take input data and feed it forward to better predict via mathmatical formulae. weights parts of text
+RNN is a super versioun of feedfoward. Can revisit past nodes to re-evaluate via feedback loops
+The Transformer model is a much more robust language model, it handles large scale sequential data and it can revist.  it uses parallel processes
+
+Generative AI (Gen AI) - generates new content
+Natural Language Processing (NLP) - interaction between computers and humans
+Word Embeddings help understand meaning and context of words
