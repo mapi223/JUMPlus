@@ -1,0 +1,7 @@
+This task went well for me. It was able to stay on task with specific 
+prompting to get more indepth or more specific information on a topic (arc-welding)
+
+I think an improvment that could be done is make it need less specific 
+prompting to stay on task
+
+
